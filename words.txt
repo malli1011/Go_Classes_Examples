@@ -1,0 +1,1 @@
+I have 1 entity call Item in which I want to be able to link parent items to children. to use a join table to create a parent/child relationship. I haven't been able to get any good documentation on. So if anyone has any thoughts I'm all ears.
